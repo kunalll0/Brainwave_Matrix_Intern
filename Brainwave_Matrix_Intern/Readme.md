@@ -63,6 +63,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
+chmod 666 scan_report.txt
 Open scanner.py and update:
 API_KEY = "your_api_key_here"
 python main.py
