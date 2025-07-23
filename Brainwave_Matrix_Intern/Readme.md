@@ -67,10 +67,13 @@ Open scanner.py and update:
 API_KEY = "your_api_key_here"
 python main.py
 
-### 👨‍💻 Author
-
-```markdown
-Kunal Prajapati  
-BCA Student | Cybersecurity & Web Development Enthusiast  
-LinkedIn: [https://www.linkedin.com/in/kunall0/](https://www.linkedin.com/in/kunall0/)
 ```
+
+---
+## 👨‍💻 Author
+
+**Kunal Prajapati**  
+BCA Student | Cybersecurity & Web Development Enthusiast  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kunall0/)
+
