@@ -1,0 +1,6 @@
+requests
+validators
+colorama
+tabulate
+pyfiglet 
+termcolor
