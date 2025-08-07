@@ -53,7 +53,7 @@ PHISH-DETEKT/
 
 ```bash
 git clone https://github.com/kunalll0/Brainwave_Matrix_Intern.git
-cd Brainwave_Matrix_Intern
+cd Brainwave_Matrix_Intern/Brainwave_Matrix_Intern/PhishDetekt
 # For Windows
 python -m venv venv
 venv\Scripts\activate
