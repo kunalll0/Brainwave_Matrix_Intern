@@ -4,3 +4,6 @@ Scan Result: 🟠 Risky - Unknown
 [2025-08-07 12:14:18] URL: hakdeq
 Scan Result: 🟢 Safe - Unknown
 ==================================================
+[2025-08-07 12:27:01] URL: http:/www.gooogle.com
+Scan Result: 🟢 Safe - Unknown
+==================================================
